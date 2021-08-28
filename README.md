@@ -1,7 +1,7 @@
 <h2>Hey! 👋</h2>
 I'm Caio Mateus!
 <br/>
-<li> <i>Currently:</i> Junior Programmer at HavanLabs.
+- <i>Currently:</i> Junior Programmer at HavanLabs.
 
 <h2> I'm Currently Learning💻</h2>
 <ul>
