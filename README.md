@@ -1,3 +1,15 @@
+<h2>Hey! 👋</h2>
+I'm Caio Mateus!
+<br/>
+- <i>Currently:</i> Junior Programmer at HavanLabs.
+
+<h2> I'm Currently Learning💻</h2>
+<ul>
+<li> Js </li>
+<li> React </li>
+<li> Always improving on the technologies I already use </li>
+</ul>
+<hr>
 <p align="center">
   
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomateusreis&show_icons=true&theme=dark) <br/>
