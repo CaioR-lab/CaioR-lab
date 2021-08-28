@@ -1,6 +1,7 @@
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioR-lab&show_icons=true&theme=dark) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioR-lab&layout=compact&theme=dark)](https://github.com/CaioR-lab/github-readme-stats)
 
+<p Technologies I use: <p/>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
