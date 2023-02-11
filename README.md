@@ -31,4 +31,4 @@ I'm Caio Mateus!
 Contact me:
 <br/>
 <a href="mailto:caio.mateus.r@gmail.com" title="Gmail"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Gmail" width="21px" height="21px">
-<a href="https://www.linkedin.com/in/carioreis/" title="Linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="Linkedin" width="21px" height="21px">
+<a href="https://www.linkedin.com/in/caiomateusreis/" title="Linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="Linkedin" width="21px" height="21px">
